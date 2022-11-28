@@ -19,12 +19,10 @@ An image of the available filter boxes is shown below:
 
 ## Summary
 
-This is a great beginner tool to filter through UFO sightings. One major drawback to this design however is the inablity to click a "search" or "clear" button. Most people are used to clicking search, whether it is on Google, Amazon, or any other major website. Not having these buttons could potentially confuse the user. Having to press "enter" after deleting the search criteria is not something most are probably not familiar with. It would definitely be more "user friendly" if these buttons were an option. 
+This is a great beginner tool to filter through UFO sightings. One major drawback to this design however is the inablity to click a "search" or "clear" button. Most people are used to clicking search, whether it is on Google, Amazon, or any other major website. Not having these buttons could potentially confuse the user. Having to press "enter" after deleting the search criteria is not something most are probably familiar with. It would definitely be more "user friendly" if "search" and "clear" buttons were an option. 
 
 A few recommendations for further development of this site are below:
 
-* Rec 1 (search)
-* Rec 2 (clear)
-* Rec 3 (header sorting)
-* Rec 4 (export results)
-* Rec 5 (change filter search boxes to be the same
+* The addtion of a "search" and "clear" button under the filter paramaters. This would make the site feel more familiar and user-friendly.
+* I think it could also be useful if the headers on the UFO table could have filters applied to them as well. This would allow the end user to sort each column into ascending or descending order.
+* An option to export the table and/ or filter results could also be useful so that people could do their own analysis of the data. 
